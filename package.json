@@ -11,7 +11,7 @@
   "dependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
-    "webpack": "^4.43.0",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.11.0"
   }
 }
